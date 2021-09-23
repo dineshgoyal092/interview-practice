@@ -1,0 +1,5 @@
+UserId number type capacity
+1 KA-02-1234 Swift 3
+2 KA-02-12345 Swift 1
+3 KA-02-12346 Swift 2
+4 KA-02-123467 Swift 2
