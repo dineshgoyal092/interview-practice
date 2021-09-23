@@ -1,0 +1,6 @@
+Amit
+Scrum,10:15AM,12:00PM,7,NITISH
+OKR Review,03:00PM,05:00PM,4,KANHAIYA
+Design Review,05:00PM,06:00PM,6,Iravati
+Design Discussion,11:45AM,01:30PM,6,AMIT
+Team Meeting,05:30PM,06:00PM,4,John
