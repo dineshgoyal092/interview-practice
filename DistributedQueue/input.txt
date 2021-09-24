@@ -1,0 +1,25 @@
+command arg
+addTopic topic1
+addTopic topic2
+addProducer producer1
+addProducer producer2
+addConsumer consumer1
+addConsumer consumer2
+addConsumer consumer3
+addConsumer consumer4
+addConsumer consumer5
+subscribe consumer1 topic1
+subscribe consumer2 topic1
+subscribe consumer1 topic2
+subscribe consumer3 topic2
+publish producer1 topic1 message1
+publish producer1 topic1 message2
+publish producer2 topic1 message3
+publish producer1 topic2 message4
+publish producer2 topic2 message5
+publish producer2 topic2 message6
+publish producer1 topic1 message7
+unSubscribe consumer1 topic1
+unSubscribe consumer2 topic1
+unSubscribe consumer1 topic2
+unSubscribe consumer3 topic2

@@ -1,0 +1,5 @@
+CELERY_IMPORTS = ("celeryApp", )
+CELERY_RESULT_BACKEND = "redis"
+BROKER_URL = 'redis://localhost:6379/0'
+CELERY_TASK_RESULT_EXPIRES = 300
+# CELERY_IMPORTS=("fetch_url")
